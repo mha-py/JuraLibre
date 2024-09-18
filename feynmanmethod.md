@@ -1,3 +1,11 @@
+# Feynman-Methode mit ChatGPT
+> [!Tip]
+> Richard Feynman (1918-1988) war Physiker und Nobelpreisträger. Die nach ihm benannte Lernmethode besteht darin, selbst in die Rolle des Erklärenden zu schlüpfen und sich vorzustellen, man würde den Stoff einem Kind erklären. Hierbei können Verständnislücken leicht erkannt werden, Defizite werden dann aufgearbeitet, um sie in einem erneuten Durchgang wieder zu erklären.
+> 
+> *“Wenn du es nicht in einfachen Worten erklären kannst, hast du es nicht verstanden.”* - Richard Feynman
+---
+
+
 **Jura-Student:**<br>
 Stell dir vor, du bist ein achtjähriges Kind und liebst es Frage zu stellen. Ich werde dir ein Thema erklären und versuche, die Feynman-Technik zu nutzen, um dir das Thema gut verständlich zu erklären. Bitte stelle mir Fragen, wenn etwas unklar ist. Sollte ich etwas falsch erklärt haben, korrigiere mich bitte.
 Baue in deine antworten zufällige aber passende emojis ein.

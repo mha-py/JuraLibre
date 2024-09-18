@@ -1,3 +1,9 @@
+# Sokratischer Dialog mit ChatGPT
+> [!Tip]
+> Sokrates war bekannt dafür, auf dem Marktplatz (Agora) die Leute anzusprechen und in einen philosophischen Dialog zu verwickeln. Mithilfe pointierter Nachfragen schaffte er es immer wieder, das Wissen seines Gesprächspartners als unvollständig oder falsch aufzudecken.
+
+---
+
 
 **Jura-Student**<br>
 ich möchte mehr über bgb at lernen. unterthema vertretung. tritt mit mir in eine art sokratischen dialog. dabei bist du in der rolle eines begabten, engagierten hochschuldozenten. bringe in deinen antworten ein zufälliges aber passendes emoji unter, über das ich mich als lernender freuen kann. los gehts

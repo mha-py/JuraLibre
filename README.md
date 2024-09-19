@@ -10,4 +10,4 @@ Bislang existieren:
 * [Fallerstellung](fallerstellen.md): Erstelle durch einen juristischen Fall, denn du dann selbst lösen kann.
 
 > [!Tip]
-> ChatGPT ist eine künstliche Intelligenz und macht als solche Fehler. Da für Anwendungen aus dem Problemkreis der deutschen Rechtswissenschaften ein beschränkterer Datensatz zur Verfügung steht, wird die KI tendenziell häufiger Fehler unterlaufen als bei anderen Anwendungen, bei denen ChatGPT eine Antwort lediglich aus dem englischen ins deutsche zu übersetzen braucht.
+> ChatGPT ist eine künstliche Intelligenz und macht als solche Fehler. Da für Anwendungen aus dem Problemkreis der deutschen Rechtswissenschaften ein beschränkterer Datensatz zur Verfügung steht, unterlaufen ChatGPT hier tendenziell häufiger Fehler als bei anderen Anwendungen, bei denen ChatGPT eine Antwort lediglich aus dem Englischen ins Deutsche zu übersetzen braucht.

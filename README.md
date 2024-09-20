@@ -1,7 +1,7 @@
 # JuraLibre
 
 <p align="center"><img src="juralibre.webp" width="180" height="180" border="0"/></p>
-Ziel diese Projekts ist, ChatGPT-Prompts, die nützlich für das Jurastudium sind, zusammenzustellen.
+Ziel diese Projekts ist, ChatGPT-Prompts (Anweisungen) zusammenzustellen, die nützlich für das Jurastudium sind.
 
 Bislang existieren:
 * [Sokratischer Dialog](socraticdialog.md): Führe mit ChatGPT einen sokratischen Dialog über ein juristisches Thema.

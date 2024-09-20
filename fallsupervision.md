@@ -1,37 +1,43 @@
+# Korrektur Lesen eines bearbeiteten Falles
+> [!Note]
+> ChatGPT kann einen bearbeiteten Fall Korrektur lesen. Dazu wird nach der Prompt-Anweisung der Fall und danach die Lösung in das Chatfenster kopiert.\
+> Unten ist noch zu sehen, wie die Lösung auf die korrekte Verwendung von Fachsprache geprüft wird. ChatGPT erstellt eine Tabelle mit Verbesserungsvorschlägen.
+
 
 **Jura-Student:**<br>
 Ich habe folgenden Fall gelöst, und möchte dass du ihn Korrektur liest!
 
 Fall:<br>
-`Anlässlich seines zwölften Geburtstages erhält Z von seiner verhassten Tante T nicht wie üblich No Name-Turnschuhe, sondern 50 €. T überreicht ihm das Geld mit den Worten: „Kauf dir was Schönes davon.“ Die Eltern des Z sind damit einverstanden. Gleich im Anschluss an die nachmittägliche Kaffeetafel verschwindet Z mit dem Geld und sucht sich im Sex-Shop einige Schmuddel-DVDs aus. An der Kasse bezahlt er bei S die DVDs mit dem ihm überlassenen Geld.`
+Anlässlich seines zwölften Geburtstages erhält Z von seiner verhassten Tante T nicht wie üblich No Name-Turnschuhe, sondern 50 €. T überreicht ihm das Geld mit den Worten: „Kauf dir was Schönes davon.“ Die Eltern des Z sind damit einverstanden. Gleich im Anschluss an die nachmittägliche Kaffeetafel verschwindet Z mit dem Geld und sucht sich im Sex-Shop einige Schmuddel-DVDs aus. An der Kasse bezahlt er bei S die DVDs mit dem ihm überlassenen Geld.
 
 Lösung:<br>
-```
+
 A. Es könnte ein wirksamer Kaufvertrag zwischen Z und S entstanden sein, § 433 BGB.
+
 I. Zustandekommen des Kaufvertrages
+
 Hierzu sind zwei übereinstimmende Willenserklärungen nötig, Angebot und Annahme.
-1. Als Z die DVDs am Tresen vorlegt, gibt er konkludent ein Angebot ab.
-2. Das Abkassieren ist eine konkludente Annahme des Angebots.
+
+1\. Als Z die DVDs am Tresen vorlegt, gibt er konkludent ein Angebot ab.
+
+2\. Das Abkassieren ist eine konkludente Annahme des Angebots.
+
 II. Wirksamkeit des Vertrages
-Fraglich ist, ob der Kaufvertrag zwischen Z und S überhaupt wirksam ist. Um Minderjährige zu schützen hat der
-Gesetzgeber in §§ 105 ff. BGB geregelt, dass sie nur eingeschränkt am Rechtsverkehr teilnehmen dürfen.
-1. Z könnte geschäftsunfähig sein, wodurch seine Willenserklärungen nichtig wären. Geschäftsunfähigkeit liegt
-unter anderem dann vor, wenn derjenige unter sieben Jahre alt ist gemäß § 105 BGB. Da Z bereits zwölf ist, ist
-dies nicht der Fall.
-2. Z könnte beschränkt geschäftsfähig sein. Beschränkt geschäftsfähig ist laut § 106 i. V. m. § 2 BGB derjenige,
-der unter achtzehn und über sieben Jahre alt ist. Dies ist für Z der Fall. Also ist Z beschränkt geschäftsfähig.
-3. Verträge, die ohne die Einwilligung seiner Eltern erfolgen, sind damit schwebend unwirksam, es sei denn, dass
-sie lediglich rechtlich vorteilhaft sind.
-4. Da der Kaufvertrag gemäß § 433 Abs. 2 BGB zur Zahlung des Kaufpreises verpflichtet, ist er nicht lediglich
-rechtlich vorteilhaft.
-5. Fraglich ist, ob der § 110 BGB einschlägig ist. Der sogenannte „Taschengeldparagraph“ besagt, dass ein
-Minderjähriger mit seinem Taschengeld sich für Kinder übliche Dinge kaufen darf. Das Taschengeld ist als eine
-pauschale Einwilligung der Eltern zu betrachten.
-Da die Schmuddel-DVDs nicht für Minderjährige geeignet sind, und außerdem davon auszugehen ist, dass die
-pauschale Einwilligung der Eltern, dass Z sich „etwas Schönes von kaufen“ dürfe, nicht so ein Produkt umfasse,
-ist dieser Paragraph hier nicht einschlägig.
+
+Fraglich ist, ob der Kaufvertrag zwischen Z und S überhaupt wirksam ist. Um Minderjährige zu schützen hat der Gesetzgeber in §§ 105 ff. BGB geregelt, dass sie nur eingeschränkt am Rechtsverkehr teilnehmen dürfen.
+
+1\. Z könnte geschäftsunfähig sein, wodurch seine Willenserklärungen nichtig wären. Geschäftsunfähigkeit liegt unter anderem dann vor, wenn derjenige unter sieben Jahre alt ist gemäß § 105 BGB. Da Z bereits zwölf ist, ist dies nicht der Fall.
+
+2\. Z könnte beschränkt geschäftsfähig sein. Beschränkt geschäftsfähig ist laut § 106 i. V. m. § 2 BGB derjenige, der unter achtzehn und über sieben Jahre alt ist. Dies ist für Z der Fall. Also ist Z beschränkt geschäftsfähig.
+
+3\. Verträge, die ohne die Einwilligung seiner Eltern erfolgen, sind damit schwebend unwirksam, es sei denn, dass sie lediglich rechtlich vorteilhaft sind.
+
+4\. Da der Kaufvertrag gemäß § 433 Abs. 2 BGB zur Zahlung des Kaufpreises verpflichtet, ist er nicht lediglich rechtlich vorteilhaft.
+
+5\. Fraglich ist, ob der § 110 BGB einschlägig ist. Der sogenannte „Taschengeldparagraph“ besagt, dass ein Minderjähriger mit seinem Taschengeld sich für Kinder übliche Dinge kaufen darf. Das Taschengeld ist als eine pauschale Einwilligung der Eltern zu betrachten. Da die Schmuddel-DVDs nicht für Minderjährige geeignet sind, und außerdem davon auszugehen ist, dass die pauschale Einwilligung der Eltern, dass Z sich „etwas Schönes von kaufen“ dürfe, nicht so ein Produkt umfasse, ist dieser Paragraph hier nicht einschlägig.
+
 B. Somit ist der Kaufvertrag schwebend unwirksam.
-```
+
 
 ---
 

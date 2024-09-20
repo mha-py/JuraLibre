@@ -1,6 +1,6 @@
 # JuraLibre
 
-<img src="juralibre.webp" width="180" height="180" border="0"/>
+<p align="center"><img src="juralibre.webp" width="180" height="180" border="0"/></p>
 Ziel diese Projekts ist, ChatGPT-Prompts, die nützlich für das Jurastudium sind, zusammenzustellen.
 
 Bislang existieren:

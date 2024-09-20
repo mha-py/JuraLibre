@@ -1,6 +1,7 @@
 # Fälle erstellen mit ChatGPT
 > [!NOTE]
-> ChatGPT ist in der Lage, Fälle zu einem vorgegebenen Thema zu erstellen.
+> ChatGPT ist in der Lage, Fälle zu einem vorgegebenen Thema zu erstellen. Im folgenden Beispiel wird ein Fall zum Thema "Anfechtung" erstellt. Damit der Fall keine Elemente enthält, die zu hohes Wissen voraussetzen, wird als Kenntnisstand "BGB AT" angegeben.\
+> Nach Bearbeitung des Falles kann die Lösung von ChatGPT Korrektur gelesen werden.
 
 ---
 

@@ -1,4 +1,6 @@
 # Erklärende Tabellen
+> [!Note]
+> ChatGPT kann genutzt werden, um Fachwissen in eine übersichtliche Tabelle zu gießen.
 
 **Jura-Student:**<br>
 Vergleiche Vollmacht, Duldungsvollmacht und Anscheinsvollmacht miteinander, indem du eine Tabelle erstellst

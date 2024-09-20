@@ -1,4 +1,6 @@
 # Erklärungen durch fiktive Charaktere
+> [!Note] 
+> ChatGPT hat nicht nur eine breite Basis an Fachwissen, sondern ist auch in der Lage, dieses Wissen geschickt in eine Kunstform einfließen zu lassen. Hier sind zwei fiktive Dialoge zwischen Charakteren aus der Harry Potter Welt bzw. dem Marvel Universum. Es werden jeweils die Anfechtung und die beschränkte Geschäftsfähigkeit erklärt.
 
 **Jura-Student:**<br>
 ich möchte mir den begriff der anfechtung des bgb zugänglich machen. schreibe einen fiktiven dialog zwischen charakteren aus harry potter, aus dem der begriff hervorgeht.

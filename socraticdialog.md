@@ -1,4 +1,7 @@
 # Sokratischer Dialog mit ChatGPT
+> [!Note]
+> Der sokratische Dialog mit ChatGPT kann genutzt werden, dass Wissen in einem Fachgebiet zu prüfen.
+
 > [!Tip]
 > Sokrates (469-399 v. Chr.) war bekannt dafür, auf dem Marktplatz (Agora) Athens die Leute anzusprechen und in einen philosophischen Dialog zu verwickeln. Mithilfe pointierter Nachfragen schaffte er es immer wieder, das Wissen seines Gesprächspartners als unvollständig oder falsch aufzudecken.
 

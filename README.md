@@ -11,6 +11,7 @@ Bislang existieren (es sind jeweils Chatprotokolle zu sehen):
 * [Tabellen](tabellen.md): Lass dir komplizierte Begriffe durch Tabellen erklären.
 * [Erklärung durch fiktive Dialoge](erklaerungfiktiverdialog.md): Lasse dir durch einen fiktiven Dialog von Film- oder Buchcharakteren komplizierte Konzepte erklären.
 * [Anwalts-Rollenspiel](fiktiveberatung.md): Schlüpfe in die Rolle des Anwalts und behandle einen Fall mit einer fiktiven Figur als Mandanten.
+* [Schema memorieren](memorierenschema.md): Lasse dir Eselsbrücken und Geschichten zum Memorieren von Prüfungsschemata kreieren.
 
 
 > [!Tip]

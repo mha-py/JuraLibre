@@ -127,6 +127,8 @@ Formbedürftigkeit und Formfreiheit können also nebeneinander existieren, aber 
 
 Hast du noch weitere Fragen zu diesem Thema, oder fühlst du dich jetzt sicherer bei der Vertretung? 😄
 
+
+<!---
 ---
 
 **Jura-Student:**<br>
@@ -156,3 +158,4 @@ Ich hoffe, diese Vorschläge helfen dir, deine juristische Sprache weiter zu ver
 
 ---
 
+-->

@@ -30,10 +30,10 @@ So kannst du die Begriffe besser merken: **Anna entdeckt den Grund (Fluch)**, **
 ---
 
 **Benutzer:**\
-die anfechtung hat als prüfungsschema die begriffe
-1. anfechtungsgrund
-2. anfechtungserklärung
-3. anfechtungsfrist
+die anfechtung hat als prüfungsschema die begriffe\
+1\. anfechtungsgrund\
+2\. anfechtungserklärung\
+3\. anfechtungsfrist\
 erschaffe eine analogie dieser begriffe zum the dark knight film
 
 ---

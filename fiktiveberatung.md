@@ -1,6 +1,6 @@
 # Rechtliche Beratung einer fiktiven Figur
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 ich möchte meine jura bgb at fähigkeiten ausprobieren. erstelle einen interaktiven dialog mit einer figur aus harry potter, die sich an mich als anwalt wendet. es soll um einen fall gehen, der bgb at wissen anwendbar macht. los gehts.
 
 ---
@@ -18,7 +18,7 @@ Die Szene beginnt:
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 hier kommt eine anfechtung in betracht. wenn es wirklich nur ein nimbus 2000 ist und kein feuerblitz 2.0, dann hat dich der verkäufer arglistig getäuscht. in dem fall kannst du den kauf wieder rückgängig machen. innerhalb einer frist, die hier ein jahr lang beträgt (ich würde dennoch sofort hingehen und den besen nicht weiter nutzen) kannst du zu ihm hingehen und sagen, du möchtest den kaufvertrag mit ihm anfechten, da es ein anderer besen ist als beschrieben wurde und du dich auf hinterhältige weise getäuscht fühlst. er muss dann den besen zurücknehmen und dir deine silber sickel zurückgeben.
 
 ---
@@ -30,7 +30,7 @@ Hier könnte deine Erklärung folgen!
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 durch 'anfechtung' kannst du einen vertrag wieder rückgängig machen. es ist dann so, als wenn du nie den kaufvertrag mit dem besenverkäufer abgeschlossen hättest. dadurch erlischt der anspruch des verkäufers auf dein geld (er hat kein recht mehr auf deine silber sickel und muss sie zurückgeben).\
 zu den beweisen: gibt es vielleicht jemanden, der bei dir war, als du den angepriesenen besen kaufen wolltest? vielleicht kann man am besen noch erkennen, dass der 'aufgemotzt' wurde, dadurch kann bestimmt nachgewiesen werden, dass jemand den besen besser machen wollte, als er tatsächlich ist.
 
@@ -44,7 +44,7 @@ zu den beweisen: gibt es vielleicht jemanden, der bei dir war, als du den angepr
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 Lass uns ein Schreiben aufsetzen, das du, harry, unterschreibst: "Hiermit fechte ich den Kaufvertrag des Besens, den ich von Ihnen am *Datum* gekauft habe, an. Bei dem Besen handelt es sich nicht um einen echten Feuerblitz 2.0, sondern um ein Nimbus 2000. Er fliegt viel weniger schnell, als Sie behauptet haben. Daher verlange ich die Herausgabe des Kaufpreises von *Anzahl* Silbersickel." Dieses schreiben solltest du dir kopieren, und ihm das original zukommenlassen.
 
 ---
@@ -75,7 +75,7 @@ Harry Potter
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 Ich würde dem verkäufer noch einmal schreiben und ihm damit drohen, vor das zauberergericht in london zu gehen, um ihn dort anzuklagen. Falls er immer noch nicht reagiert, würden wir vor gericht gehen.
 
 ---

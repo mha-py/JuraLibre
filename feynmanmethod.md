@@ -6,7 +6,7 @@
 ---
 
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 Stell dir vor, du bist ein achtjähriges Kind und liebst es Frage zu stellen. Ich werde dir ein Thema erklären und versuche, die Feynman-Technik zu nutzen, um dir das Thema gut verständlich zu erklären. Bitte stelle mir Fragen, wenn etwas unklar ist. Sollte ich etwas falsch erklärt haben, korrigiere mich bitte.
 Baue in deine antworten zufällige aber passende emojis ein.
 Thema ist geschäftsfähigkeit.
@@ -18,7 +18,7 @@ Oh, das klingt spannend! 😄 Was bedeutet "Geschäftsfähigkeit"? Heißt das, d
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 geschäftsfähigkeit meint die fähigkeit, rechtsgeschäfte abzuschließen. damit ist gemeint, dass erwachsene zwar verträge unterschreiben dürfen und dinge im supermarkt kaufen können, aber bei kindern gibt es limitierungen. beispielsweise können kinder unter 7 gar keine dinge selbst kaufen, sondern die eltern müssen das für das kind tun. kinder über 7 dürfen mit ihrem taschengeld dinge kaufen, und verträge unterschreiben, wenn die eltern dafür eine erlaubnis geben.
 
 ---
@@ -28,7 +28,7 @@ Oh, also darf ich mit 7 Jahren nur Sachen kaufen, wenn meine Eltern das okay fin
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 ne, mit 7 darfst du selbst nichts kaufen, selbst wenn die eltern das okay finden würden. das ist erstmal eine regel die im sogenannten bürgerlichen gesetzbuch drinsteht. aber sie hat einen wichtigen zweck, nämlich um die kinder unter 7 zu schützen, davor dass sie fehler machen oder sogar von erwachsenen ausgenutzt werden.
 
 ---
@@ -38,7 +38,7 @@ Ah, verstehe! 🧐 Also will man sicherstellen, dass Kinder nicht aus Versehen e
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 das gesetz regelt das im "taschengeldparagraphen" - kinder über 7 sind schon ein bisschen schlauer als die unter 7 und außerdem sollen sie ja auch lernen, mit geld umzugehen, darum dürfen sie ein taschengeld haben und damit kleine dinge kaufen.
 
 ---
@@ -48,7 +48,7 @@ Oh, das klingt ja praktisch! 😄 Also hilft das Gesetz dabei, dass Kinder lerne
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 je nachdem wie viel taschengeld dir deine eltern gegeben haben kannst du das frei ausgeben, aber eher für normale spielzeugsachen. aber wenn du dein taschengeld angespart hast, um ein teures spielzeug zu kaufen, kannst du das natürlich machen.
 
 ---
@@ -58,7 +58,7 @@ Ah, also darf ich mein Geld für teure Sachen ausgeben, wenn ich lange gespart h
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 wenn du eine sache kaufst, die nicht für kinder geeignet ist, dann haben deine eltern ein mitspracherecht. der kaufvertrag ist dann "schwebend unwirksam", das bedeutet, dass deine eltern dir die anweisung geben können, es zurückzugeben und der verkäufer muss es dann auch zurücknehmen.
 
 ---
@@ -68,7 +68,7 @@ Oh, das heißt also, wenn ich etwas kaufe, das nicht passt, dürfen meine Eltern
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 ich bin ehrlich gesagt selbst überfragt, der verkäufer muss es auf jeden fall zurücknehmen, unsicher bin ich mir, ob die eltern etwas für die benutzung zahlen müssen, weil der verkäufer ist sicherlich ein bisschen sauer wenn das spielzeug schon benutzt wurde.
 
 ---

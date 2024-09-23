@@ -8,7 +8,7 @@
 ---
 
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 ich möchte mehr über bgb at lernen. unterthema vertretung. tritt mit mir in eine art sokratischen dialog. dabei bist du in der rolle eines begabten, engagierten hochschuldozenten. bringe in deinen antworten ein zufälliges aber passendes emoji unter, über das ich mich als lernender freuen kann. los gehts
 
 ---
@@ -18,7 +18,7 @@ Gut, beginnen wir mit einer Frage: Was verstehst du unter dem Begriff "Vertretun
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 eine vertretung ist eine konstellation, bei dem ein vertreter im namen eines vertreteten eine willenserklärung abgibt.
 
 ---
@@ -30,7 +30,7 @@ Welche zwei wesentlichen Voraussetzungen müssen erfüllt sein, damit eine wirks
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 der vertretene muss dem vertreter eine vertretungsmacht (vollmacht) erteilt haben, oder er muss den dritten in kenntnis gesetzt haben, dass der vertreter ihn vertritt.
 
 ---
@@ -48,7 +48,7 @@ Was passiert denn deiner Meinung nach, wenn der Vertreter nicht im Namen des Ver
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 dann hat er (leider) im eigenen namen gehandelt, und zwar voll wirksam gemäß § 164 Abs. 2 BGB.
 
 ---
@@ -60,7 +60,7 @@ Nun eine etwas trickreichere Frage: Angenommen, der Vertreter handelt ohne Vertr
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 es kommt darauf an. wenn er schon häufiger ohne vertretungsmacht gehandelt hat und der vertretene ihm das durchgehen lassen hat, dann entsteht eine duldungsvollmacht. wenn hingegen der vertretene fahrlässig handelt und es so ausschaut, als ob eine vollmacht vorläge, entsteht eine anscheinsvollmacht.
 ansonsten sind die verträge ohne vertretungsmacht schwebend unwirksam.
 
@@ -79,7 +79,7 @@ Was denkst du: Welche Folgen hat es, wenn der Vertretene die Genehmigung verweig
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 dann wird der vertrag von anfang an unwirksam. der vertreter muss dann für den vertrauensschaden der beim dritten entstanden ist haften.
 
 ---
@@ -93,7 +93,7 @@ Aber! Weißt du, in welchen Fällen der Vertreter **nicht** nach § 179 BGB haft
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 falls er beschränkt oder nicht geschäftsfähig ist und wenn der dritte den mangel an vertretungsmacht kannte oder hätte erkennen müssen (§ 179 I BGB)
 
 ---
@@ -111,7 +111,7 @@ Noch eine Frage zum Abschluss: Wenn ein Vertreter mit Vertretungsmacht, aber in 
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 soweit ich weiß ist die form nicht entscheidend, das heißt das rechtsgeschäft ist gültig auch wenn die form der vollmacht nicht der des rechtsgeschäftes entspricht.
 
 ---
@@ -131,7 +131,7 @@ Hast du noch weitere Fragen zu diesem Thema, oder fühlst du dich jetzt sicherer
 <!---
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 könnten sie meine eingaben durchgehen, und in tabellarischer form verbesserungsvorschläge machen, damit ich mir eine juristische fachsprache aneigenen kann?
 
 ---

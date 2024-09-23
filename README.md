@@ -1,4 +1,4 @@
-# JuraLibre
+# Jura Libre
 
 <p align="center"><img src="juralibre2.webp" width="320" height="320" border="0"/></p>
 Ziel diese Projekts ist, ChatGPT-Prompts (Anweisungen) zusammenzustellen, die nützlich für das Jurastudium sind.

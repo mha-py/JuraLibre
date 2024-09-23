@@ -13,6 +13,8 @@ Bislang existieren (es sind jeweils Chatprotokolle zu sehen):
 * [Erklärung durch fiktive Dialoge](erklaerungfiktiverdialog.md): Lasse dir durch einen fiktiven Dialog von Film- oder Buchcharakteren komplizierte Konzepte erklären.
 * [Anwalts-Rollenspiel](fiktiveberatung.md): Schlüpfe in die Rolle des Anwalts und behandle einen Fall mit einer fiktiven Figur als Mandanten.
 * [Schema memorieren](memorierenschema.md): Lasse dir Eselsbrücken und Geschichten zum Memorieren von Prüfungsschemata kreieren.
+* [Fachsprache verbessern](spracheverbessern.md): Erstelle eine Tabelle mit fachsprachlichen Verbesserungsvorschlägen.
+* [Sprache verbessern im Chat](spracheverbesserndurchchat.md): Chatte, während deine Fachsprache stets korrigiert wird.
 
 > [!Tip]
 > ChatGPT ist eine künstliche Intelligenz und macht als solche Fehler. Da für Anwendungen aus dem Problemkreis der deutschen Rechtswissenschaften ein beschränkterer Datensatz zur Verfügung steht, unterlaufen ChatGPT hier tendenziell häufiger Fehler als bei anderen Anwendungen, bei denen ChatGPT eine Antwort lediglich aus dem Englischen ins Deutsche zu übersetzen braucht.

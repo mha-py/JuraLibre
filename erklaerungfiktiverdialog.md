@@ -2,7 +2,7 @@
 > [!Note] 
 > ChatGPT hat nicht nur eine breite Basis an Fachwissen, sondern ist auch in der Lage, dieses Wissen geschickt in eine Kunstform einfließen zu lassen. Hier sind zwei fiktive Dialoge zwischen Charakteren aus der Harry Potter Welt bzw. dem Marvel Universum. Es werden jeweils die Anfechtung und die beschränkte Geschäftsfähigkeit erklärt.
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 ich möchte mir den begriff der anfechtung des bgb zugänglich machen. schreibe einen fiktiven dialog zwischen charakteren aus harry potter, aus dem der begriff hervorgeht.
 
 ---
@@ -89,7 +89,7 @@ In diesem Dialog wird der Begriff der Anfechtung durch verschiedene Beispiele un
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 nun erkläre mir das konzept der beschränkten geschäftsfähigkeit anhand eines dialogs von figuren aus dem marvel universum. ich denke da an den hulk als zentrale figur, die man wahrscheinlich als beschränkt geschäftsfähig bezeichnen kann.
 
 ---
@@ -157,7 +157,7 @@ In diesem Dialog wird das Konzept der beschränkten Geschäftsfähigkeit auf ver
 
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 führe den dialog fort und bring die begriffe der schwebenden unwirksamkeit und der genehmigung (und weitere wenn möglich) mit ins spiel.
 
 ---

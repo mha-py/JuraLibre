@@ -4,7 +4,7 @@
 > Unten ist noch zu sehen, wie die Lösung auf die korrekte Verwendung von Fachsprache geprüft wird. ChatGPT erstellt eine Tabelle mit Verbesserungsvorschlägen.
 
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 Ich habe folgenden Fall gelöst, und möchte dass du ihn Korrektur liest!
 
 Fall:<br>
@@ -84,9 +84,10 @@ Da die Einwilligung der Eltern fehlt und der Kaufvertrag nicht durch § 110 BGB 
 
 Was denkst du zu den Ergänzungen?
 
+<!---
 ---
 
-**Jura-Student:**<br>
+**Benutzer:**<br>
 um meine juristische sprache zu korrigieren, erstelle eine tabelle mit verbesserungen
 
 ---
@@ -106,3 +107,5 @@ Hier ist eine Tabelle, die deine juristische Sprache mit Verbesserungsvorschläg
 | „Ein Vertrag ohne Einwilligung der Eltern ist schwebend unwirksam.“ | „Ein ohne Einwilligung der Eltern geschlossener Vertrag ist nach § 108 Abs. 1 BGB schwebend unwirksam.“ |
 
 Durch diese Anpassungen wird deine juristische Sprache präziser und stärker an die formale juristische Ausdrucksweise angepasst.
+
+-->

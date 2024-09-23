@@ -5,7 +5,7 @@
 
 ---
 
-**Jura-Student:**\
+**Benutzer:**\
 Erstelle einen juristischen Fall zum Thema Anfechtung. Er soll eine klare Fragestellung enthalten, die ich im Gutachtenstil beantworten kann. Mein Kenntnisstand ist BGB AT.
 
 ---
@@ -25,7 +25,7 @@ Die Fragestellung erlaubt es dir, den Gutachtenstil anzuwenden, insbesondere im 
 
 ---
 
-**Jura-Student:**\
+**Benutzer:**\
 Meine Lösung des Falles sieht so aus. Gib mir eine Reihe von Vorschlägen, durch die ich meine Lösung verbessern kann!
 
 A. Möglicherweise kann Herr Schmidt (S) den Kaufvertrag mit Herrn Weber (W) anfechten

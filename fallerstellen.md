@@ -28,14 +28,11 @@ Die Fragestellung erlaubt es dir, den Gutachtenstil anzuwenden, insbesondere im 
 **Benutzer:**\
 Meine Lösung des Falles sieht so aus. Gib mir eine Reihe von Vorschlägen, durch die ich meine Lösung verbessern kann!
 
-A. Möglicherweise kann Herr Schmidt (S) den Kaufvertrag mit Herrn Weber (W) anfechten
-
-I. Die Anfechtung ermöglicht, eine bereits abgegebene Willenserklärung nichtig zu machen.
-
-1. Als Grund für die Anfechtung kommt eine arglistige Täuschung durch W über die Qualität und den Wert der Vase in Betracht. Indem W den S falsche Informationen über das Alter der Vase mitteilt, täuscht der S arglistig, § 123 Abs. 1 BGB. Hierbei spielt es keine Rolle, ob W bewusst gelogen hat, oder bloß eine falsche Vermutung geäußert hat.
-2. S müsste innerhalb der Anfechtungsfrist handeln. Wenn der Anfechtende arglistige getäuscht worden ist, beträgt die Anfechtungsfrist gemäß § 124 BGB ein Jahr ab dem Zeitpunkt, wo die Täuschung ihm bekannt wurde.
-3. Für eine wirksame Anfechtung muss dem Anfechtungsgegner eine Anfechtungserklärung übermittelt werden.
-
+A. Möglicherweise kann Herr Schmidt (S) den Kaufvertrag mit Herrn Weber (W) anfechten\
+I. Die Anfechtung ermöglicht, eine bereits abgegebene Willenserklärung nichtig zu machen.\
+1\. Als Grund für die Anfechtung kommt eine arglistige Täuschung durch W über die Qualität und den Wert der Vase in Betracht. Indem W den S falsche Informationen über das Alter der Vase mitteilt, täuscht der S arglistig, § 123 Abs. 1 BGB. Hierbei spielt es keine Rolle, ob W bewusst gelogen hat, oder bloß eine falsche Vermutung geäußert hat.\
+2\. S müsste innerhalb der Anfechtungsfrist handeln. Wenn der Anfechtende arglistige getäuscht worden ist, beträgt die Anfechtungsfrist gemäß § 124 BGB ein Jahr ab dem Zeitpunkt, wo die Täuschung ihm bekannt wurde.\
+3\. Für eine wirksame Anfechtung muss dem Anfechtungsgegner eine Anfechtungserklärung übermittelt werden.\
 B. S kann den Kaufvertrag mit Herrn W mit einer Frist von einem Jahr ab der Begutachtung anfechten.
 
 
